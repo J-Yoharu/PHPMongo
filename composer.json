@@ -1,0 +1,16 @@
+{
+    "name": "jonathas_augusto/php-mongo",
+    "description": "Projeto com exemplos de aplicação ao mongodb com PHP",
+    "autoload": {
+        "psr-4": {
+            "PHPMongo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jonathas Augusto",
+            "email": "jonathas_a.a@hotmail.com"
+        }
+    ],
+    "require": {}
+}
